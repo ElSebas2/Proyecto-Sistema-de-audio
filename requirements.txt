@@ -1,0 +1,5 @@
+pyaudio
+flask
+flask_cors
+tkinter
+requests
