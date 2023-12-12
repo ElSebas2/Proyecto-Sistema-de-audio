@@ -1,0 +1,25 @@
+Dispositivos de audio disponibles:
+蚽dice: 0, Nombre: Asignador de sonido Microsoft - Input
+蚽dice: 1, Nombre: Varios micr贸fonos (Realtek(R) A
+蚽dice: 2, Nombre: Asignador de sonido Microsoft - Output
+蚽dice: 3, Nombre: Auriculares (Realtek(R) Audio)
+蚽dice: 4, Nombre: Altavoces (Realtek(R) Audio)
+蚽dice: 5, Nombre: Controlador primario de captura de sonido
+蚽dice: 6, Nombre: Varios micr贸fonos (Realtek(R) Audio)
+蚽dice: 7, Nombre: Controlador primario de sonido
+蚽dice: 8, Nombre: Auriculares (Realtek(R) Audio)
+蚽dice: 9, Nombre: Altavoces (Realtek(R) Audio)
+蚽dice: 10, Nombre: Auriculares (Realtek(R) Audio)
+蚽dice: 11, Nombre: Altavoces (Realtek(R) Audio)
+蚽dice: 12, Nombre: Varios micr贸fonos (Realtek(R) Audio)
+蚽dice: 13, Nombre: Speakers 1 (Realtek HD Audio output with SST)
+蚽dice: 14, Nombre: Speakers 2 (Realtek HD Audio output with SST)
+蚽dice: 15, Nombre: Altavoz de PC (Realtek HD Audio output with SST)
+蚽dice: 16, Nombre: Mezcla est茅reo (Realtek HD Audio Stereo input)
+蚽dice: 17, Nombre: Headphones 1 (Realtek HD Audio 2nd output with SST)
+蚽dice: 18, Nombre: Headphones 2 (Realtek HD Audio 2nd output with SST)
+蚽dice: 19, Nombre: Altavoz de PC (Realtek HD Audio 2nd output with SST)
+蚽dice: 20, Nombre: Varios micr贸fonos 1 (Realtek HD Audio Mic input with SST)
+蚽dice: 21, Nombre: Varios micr贸fonos 2 (Realtek HD Audio Mic input with SST)
+蚽dice: 22, Nombre: Auriculares ()
+蚽dice: 23, Nombre: Auriculares ()
